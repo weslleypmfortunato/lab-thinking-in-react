@@ -1,0 +1,9 @@
+.out-stock {
+  color: red;
+}
+
+td {
+  font-size: 1.1rem;
+  padding: 5px;
+  border-bottom: 0.5px dotted lightgray;
+}

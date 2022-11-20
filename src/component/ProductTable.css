@@ -1,0 +1,11 @@
+table {
+  margin: auto;
+  border-collapse: collapse;
+}
+
+.headings {
+  font-weight: 500;
+  padding: 10px 162px;
+  background-color: lightgray;
+  border-bottom: 1px dotted gray;
+}
